@@ -1,6 +1,6 @@
 # Air Quality Downscaling Attempt — Barcelona Region
 
-Inspired by the BSC research, I am attempting to make a PoC for downscaling AQ using Supervised ML. 
+Inspired by the BSC research opening, I am attempting to make a PoC for downscaling AQ using Supervised ML. 
 
 ## What I am trying to do
 I am using coarse models CAMS reanalysis data, which estimates at almost a 80km resolution, and attempting to downscale it to much finer resolution using Air Quality Monitoring Stations (AQMS) data as ground truth at several points within Barcelona.
